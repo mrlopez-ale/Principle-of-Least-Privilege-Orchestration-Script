@@ -1,4 +1,4 @@
-# Principle-of-Least-Privilege-Orchestration-Script
+# Principle of Least Privilege Orchestration Script
 Linkedin: https://www.linkedin.com/in/mr-lopeza/
 
 This project provides scripts to automate the setup and verification of least privilege permissions for a dedicated log reading user on a Linux system using Access Control Lists (ACLs).
